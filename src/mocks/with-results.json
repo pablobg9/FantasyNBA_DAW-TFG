@@ -1,144 +1,605 @@
 {
-    "Search": [
-        {
-            "Title": "Blade Runner",
-            "Year": "1982",
-            "imdbID": "tt0083658",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ4YTBmNTQtMDYxMC00NGFjLTkwOGQtNzdhNmY1Nzc1MzUxXkEyXkFqcGc@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Blade Runner 2049",
-            "Year": "2017",
-            "imdbID": "tt1856101",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Blade",
-            "Year": "1998",
-            "imdbID": "tt0120611",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BNzAzMmY3OWMtNDgyMS00Y2U4LTlmM2UtY2YwMmM0MDI5ODJmXkEyXkFqcGc@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Blade II",
-            "Year": "2002",
-            "imdbID": "tt0187738",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMGE5ZmY2NzEtZTEyMi00MWIyLThmOWYtYzJkOTQ0Y2U3ZWU1XkEyXkFqcGc@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Blade: Trinity",
-            "Year": "2004",
-            "imdbID": "tt0359013",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0Nzg2MzI3MF5BMl5BanBnXkFtZTYwMjExODQ3._V1_SX300.jpg"
-        },
-        {
-            "Title": "Sling Blade",
-            "Year": "1996",
-            "imdbID": "tt0117666",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BNDM5MjhhMDgtMmVmYy00ODNlLWI1OGMtMzAzNmY5OGRmNjk0XkEyXkFqcGc@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Dragon Blade",
-            "Year": "2015",
-            "imdbID": "tt3672840",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MjgxOTQ5MF5BMl5BanBnXkFtZTgwODA3NTUwNjE@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Blade of the Immortal",
-            "Year": "2017",
-            "imdbID": "tt5084170",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BZjUzODFjYmYtYzA0Yi00ODk2LTg2OGUtYWExYjc2NzYyNTc1XkEyXkFqcGc@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Shinobi: Heart Under Blade",
-            "Year": "2005",
-            "imdbID": "tt0475723",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0ZDgzMDUtOTE5MC00MTUwLWFmM2EtOGRiNzQ3NWNmMWQzXkEyXkFqcGc@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Fate/stay night [Unlimited Blade Works]",
-            "Year": "2014–2015",
-            "imdbID": "tt3621796",
-            "Type": "series",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BZTNmZWI3ZWYtNjkzYi00ZTFkLWI0MzctMjc2YzlmNGRkNzRiXkEyXkFqcGc@._V1_SX300.jpg"
-        },
-        {
-            "Title": "The Avengers",
-            "Year": "2012",
-            "imdbID": "tt0848228",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Avengers: Endgame",
-            "Year": "2019",
-            "imdbID": "tt4154796",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Avengers: Infinity War",
-            "Year": "2018",
-            "imdbID": "tt4154756",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Avengers: Age of Ultron",
-            "Year": "2015",
-            "imdbID": "tt2395427",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg"
-        },
-        {
-            "Title": "The Avengers",
-            "Year": "1998",
-            "imdbID": "tt0118661",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BZTA4ZmZlZWQtZDRlYS00ZWZhLTk0MzEtYjExMGIzMTBlZDNlXkEyXkFqcGc@._V1_SX300.jpg"
-        },
-        {
-            "Title": "The Avengers: Earth's Mightiest Heroes",
-            "Year": "2010–2012",
-            "imdbID": "tt1626038",
-            "Type": "series",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BY2NkYTNlMTQtZWVjNC00MTk4LTkzNGEtYjAyOTYxYWFjYTVkXkEyXkFqcGc@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Ultimate Avengers: The Movie",
-            "Year": "2006",
-            "imdbID": "tt0491703",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMjk0NTMwMl5BMl5BanBnXkFtZTgwNzY0NjAwNzE@._V1_SX300.jpg"
-        },
-        {
-            "Title": "The Avengers",
-            "Year": "1961–1969",
-            "imdbID": "tt0054518",
-            "Type": "series",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMDhhYWIxMzYtNTY2Zi00MTZiLWI2ZDUtYjNiNTY5YzA5MWNkXkEyXkFqcGc@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Ultimate Avengers II",
-            "Year": "2006",
-            "imdbID": "tt0803093",
-            "Type": "movie",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BZjI3MTI5ZTYtZmNmNy00OGZmLTlhNWMtNjZiYmYzNDhlOGRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
-        },
-        {
-            "Title": "Avengers Assemble",
-            "Year": "2012–2019",
-            "imdbID": "tt2455546",
-            "Type": "series",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NTUyMDQwOV5BMl5BanBnXkFtZTgwNjAwMTA0MDE@._V1_SX300.jpg"
-        }
+    "year": 2025,
+    "teams": [
+      {
+        "id": 1,
+        "name": "Los Angeles Lakers",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg",
+        "coach": "Darvin Ham",
+        "starters": [
+          "BA | D'Angelo Russell",
+          "ES | Austin Reaves",
+          "AL | LeBron James",
+          "AP | Rui Hachimura",
+          "P | Anthony Davis"
+        ],
+        "bench": [
+          "BA | Gabe Vincent",
+          "ES | Max Christie",
+          "AL | Cam Reddish",
+          "AP | Jarred Vanderbilt",
+          "P | Jaxson Hayes"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Golden State Warriors",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/0/01/Golden_State_Warriors_logo.svg",
+        "coach": "Steve Kerr",
+        "starters": [
+          "BA | Stephen Curry",
+          "ES | Klay Thompson",
+          "AL | Andrew Wiggins",
+          "AP | Draymond Green",
+          "P | Kevon Looney"
+        ],
+        "bench": [
+          "BA | Chris Paul",
+          "ES | Moses Moody",
+          "AL | Jonathan Kuminga",
+          "AP | Dario Šarić",
+          "P | Trayce Jackson-Davis"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Boston Celtics",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg",
+        "coach": "Joe Mazzulla",
+        "starters": [
+          "BA | Jrue Holiday",
+          "ES | Jaylen Brown",
+          "AL | Jayson Tatum",
+          "AP | Kristaps Porziņģis",
+          "P | Al Horford"
+        ],
+        "bench": [
+          "BA | Payton Pritchard",
+          "ES | Sam Hauser",
+          "AL | Oshae Brissett",
+          "AP | Luke Kornet",
+          "P | Neemias Queta"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Chicago Bulls",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/6/67/Chicago_Bulls_logo.svg",
+        "coach": "Billy Donovan",
+        "starters": [
+          "BA | Lonzo Ball",
+          "ES | Zach LaVine",
+          "AL | DeMar DeRozan",
+          "AP | Patrick Williams",
+          "P | Nikola Vučević"
+        ],
+        "bench": [
+          "BA | Coby White",
+          "ES | Alex Caruso",
+          "AL | Javonte Green",
+          "AP | Derrick Jones Jr.",
+          "P | Andre Drummond"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Miami Heat",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg",
+        "coach": "Erik Spoelstra",
+        "starters": [
+          "BA | Kyle Lowry",
+          "ES | Tyler Herro",
+          "AL | Jimmy Butler",
+          "AP | Kevin Love",
+          "P | Bam Adebayo"
+        ],
+        "bench": [
+          "BA | Gabe Vincent",
+          "ES | Max Strus",
+          "AL | Caleb Martin",
+          "AP | Duncan Robinson",
+          "P | Cody Zeller"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Brooklyn Nets",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Brooklyn_Nets_newlogo.svg",
+        "coach": "Jacque Vaughn",
+        "starters": [
+          "BA | Ben Simmons",
+          "ES | Cam Thomas",
+          "AL | Mikal Bridges",
+          "AP | Dorian Finney-Smith",
+          "P | Nic Claxton"
+        ],
+        "bench": [
+          "BA | Spencer Dinwiddie",
+          "ES | Seth Curry",
+          "AL | Royce O'Neale",
+          "AP | Joe Harris",
+          "P | Day'Ron Sharpe"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Milwaukee Bucks",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4a/Milwaukee_Bucks_logo.svg",
+        "coach": "Adrian Griffin",
+        "starters": [
+          "BA | Damian Lillard",
+          "ES | Malik Beasley",
+          "AL | Khris Middleton",
+          "AP | Giannis Antetokounmpo",
+          "P | Brook Lopez"
+        ],
+        "bench": [
+          "BA | Jrue Holiday",
+          "ES | Pat Connaughton",
+          "AL | Bobby Portis",
+          "AP | Jae Crowder",
+          "P | Robin Lopez"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Phoenix Suns",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/d/dc/Phoenix_Suns_logo.svg",
+        "coach": "Frank Vogel",
+        "starters": [
+          "BA | Devin Booker",
+          "ES | Bradley Beal",
+          "AL | Kevin Durant",
+          "AP | Josh Okogie",
+          "P | Deandre Ayton"
+        ],
+        "bench": [
+          "BA | Cameron Payne",
+          "ES | Damion Lee",
+          "AL | Torrey Craig",
+          "AP | T.J. Warren",
+          "P | Bismack Biyombo"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Philadelphia 76ers",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg",
+        "coach": "Nick Nurse",
+        "starters": [
+          "BA | James Harden",
+          "ES | Tyrese Maxey",
+          "AL | Tobias Harris",
+          "AP | P.J. Tucker",
+          "P | Joel Embiid"
+        ],
+        "bench": [
+          "BA | De'Anthony Melton",
+          "ES | Shake Milton",
+          "AL | Danuel House Jr.",
+          "AP | Georges Niang",
+          "P | Paul Reed"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Dallas Mavericks",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg",
+        "coach": "Jason Kidd",
+        "starters": [
+          "BA | Luka Dončić",
+          "ES | Kyrie Irving",
+          "AL | Tim Hardaway Jr.",
+          "AP | Maxi Kleber",
+          "P | Dwight Powell"
+        ],
+        "bench": [
+          "BA | Jaden Hardy",
+          "ES | Josh Green",
+          "AL | Reggie Bullock",
+          "AP | Dorian Finney-Smith",
+          "P | JaVale McGee"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Denver Nuggets",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg",
+        "coach": "Michael Malone",
+        "starters": [
+          "BA | Jamal Murray",
+          "ES | Kentavious Caldwell-Pope",
+          "AL | Michael Porter Jr.",
+          "AP | Aaron Gordon",
+          "P | Nikola Jokić"
+        ],
+        "bench": [
+          "BA | Reggie Jackson",
+          "ES | Bruce Brown",
+          "AL | Jeff Green",
+          "AP | Zeke Nnaji",
+          "P | DeAndre Jordan"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "New York Knicks",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg",
+        "coach": "Tom Thibodeau",
+        "starters": [
+          "BA | Jalen Brunson",
+          "ES | Quentin Grimes",
+          "AL | RJ Barrett",
+          "AP | Julius Randle",
+          "P | Mitchell Robinson"
+        ],
+        "bench": [
+          "BA | Immanuel Quickley",
+          "ES | Evan Fournier",
+          "AL | Josh Hart",
+          "AP | Obi Toppin",
+          "P | Isaiah Hartenstein"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Toronto Raptors",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg",
+        "coach": "Darko Rajaković",
+        "starters": [
+          "BA | Fred VanVleet",
+          "ES | Gary Trent Jr.",
+          "AL | OG Anunoby",
+          "AP | Pascal Siakam",
+          "P | Jakob Poeltl"
+        ],
+        "bench": [
+          "BA | Malachi Flynn",
+          "ES | Scottie Barnes",
+          "AL | Thaddeus Young",
+          "AP | Chris Boucher",
+          "P | Precious Achiuwa"
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Atlanta Hawks",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/2/24/Atlanta_Hawks_logo.svg",
+        "coach": "Quin Snyder",
+        "starters": [
+          "BA | Trae Young",
+          "ES | Dejounte Murray",
+          "AL | De'Andre Hunter",
+          "AP | John Collins",
+          "P | Clint Capela"
+        ],
+        "bench": [
+          "BA | Aaron Holiday",
+          "ES | Bogdan Bogdanović",
+          "AL | AJ Griffin",
+          "AP | Jalen Johnson",
+          "P | Onyeka Okongwu"
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Cleveland Cavaliers",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cleveland_Cavaliers_logo.svg/1189px-Cleveland_Cavaliers_logo.svg.png",
+        "coach": "J.B. Bickerstaff",
+        "starters": [
+          "BA | Darius Garland",
+          "ES | Donovan Mitchell",
+          "AL | Caris LeVert",
+          "AP | Evan Mobley",
+          "P | Jarrett Allen"
+        ],
+        "bench": [
+          "BA | Ricky Rubio",
+          "ES | Isaac Okoro",
+          "AL | Cedi Osman",
+          "AP | Dean Wade",
+          "P | Robin Lopez"
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Utah Jazz",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/Utah_Jazz_logo_2022.svg",
+        "coach": "Will Hardy",
+        "starters": [
+          "BA | Collin Sexton",
+          "ES | Jordan Clarkson",
+          "AL | Lauri Markkanen",
+          "AP | Kelly Olynyk",
+          "P | Walker Kessler"
+        ],
+        "bench": [
+          "BA | Talen Horton-Tucker",
+          "ES | Malik Beasley",
+          "AL | Rudy Gay",
+          "AP | Jarred Vanderbilt",
+          "P | Udoka Azubuike"
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Portland Trail Blazers",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Portland_Trail_Blazers_logo.svg",
+        "coach": "Chauncey Billups",
+        "starters": [
+          "BA | Damian Lillard",
+          "ES | Anfernee Simons",
+          "AL | Jerami Grant",
+          "AP | Nassir Little",
+          "P | Jusuf Nurkić"
+        ],
+        "bench": [
+          "BA | Keon Johnson",
+          "ES | Shaedon Sharpe",
+          "AL | Justise Winslow",
+          "AP | Trendon Watford",
+          "P | Drew Eubanks"
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Sacramento Kings",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg",
+        "coach": "Mike Brown",
+        "starters": [
+          "BA | De'Aaron Fox",
+          "ES | Kevin Huerter",
+          "AL | Harrison Barnes",
+          "AP | Keegan Murray",
+          "P | Domantas Sabonis"
+        ],
+        "bench": [
+          "BA | Davion Mitchell",
+          "ES | Malik Monk",
+          "AL | Trey Lyles",
+          "AP | Chimezie Metu",
+          "P | Alex Len"
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Minnesota Timberwolves",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg",
+        "coach": "Chris Finch",
+        "starters": [
+          "BA | Mike Conley",
+          "ES | Anthony Edwards",
+          "AL | Jaden McDaniels",
+          "AP | Karl-Anthony Towns",
+          "P | Rudy Gobert"
+        ],
+        "bench": [
+          "BA | Jordan McLaughlin",
+          "ES | Jaylen Nowell",
+          "AL | Taurean Prince",
+          "AP | Kyle Anderson",
+          "P | Naz Reid"
+        ]
+      },
+      {
+        "id": 20,
+        "name": "New Orleans Pelicans",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0d/New_Orleans_Pelicans_logo.svg",
+        "coach": "Willie Green",
+        "starters": [
+          "BA | CJ McCollum",
+          "ES | Brandon Ingram",
+          "AL | Herbert Jones",
+          "AP | Zion Williamson",
+          "P | Jonas Valančiūnas"
+        ],
+        "bench": [
+          "BA | Jose Alvarado",
+          "ES | Trey Murphy III",
+          "AL | Naji Marshall",
+          "AP | Larry Nance Jr.",
+          "P | Jaxson Hayes"
+        ]
+      },
+      {
+        "id": 21,
+        "name": "San Antonio Spurs",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg",
+        "coach": "Gregg Popovich",
+        "starters": [
+          "BA | Tre Jones",
+          "ES | Devin Vassell",
+          "AL | Keldon Johnson",
+          "AP | Jeremy Sochan",
+          "P | Victor Wembanyama"
+        ],
+        "bench": [
+          "BA | Blake Wesley",
+          "ES | Malaki Branham",
+          "AL | Doug McDermott",
+          "AP | Zach Collins",
+          "P | Charles Bassey"
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Orlando Magic",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/1/10/Orlando_Magic_logo.svg",
+        "coach": "Jamahl Mosley",
+        "starters": [
+          "BA | Markelle Fultz",
+          "ES | Jalen Suggs",
+          "AL | Franz Wagner",
+          "AP | Paolo Banchero",
+          "P | Wendell Carter Jr."
+        ],
+        "bench": [
+          "BA | Cole Anthony",
+          "ES | Gary Harris",
+          "AL | Jonathan Isaac",
+          "AP | Chuma Okeke",
+          "P | Mo Bamba"
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Charlotte Hornets",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg",
+        "coach": "Steve Clifford",
+        "starters": [
+          "BA | LaMelo Ball",
+          "ES | Terry Rozier",
+          "AL | Gordon Hayward",
+          "AP | P.J. Washington",
+          "P | Mark Williams"
+        ],
+        "bench": [
+          "BA | Dennis Smith Jr.",
+          "ES | James Bouknight",
+          "AL | Kelly Oubre Jr.",
+          "AP | Jalen McDaniels",
+          "P | Nick Richards"
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Indiana Pacers",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg",
+        "coach": "Rick Carlisle",
+        "starters": [
+          "BA | Tyrese Haliburton",
+          "ES | Buddy Hield",
+          "AL | Bennedict Mathurin",
+          "AP | Jalen Smith",
+          "P | Myles Turner"
+        ],
+        "bench": [
+          "BA | T.J. McConnell",
+          "ES | Chris Duarte",
+          "AL | Aaron Nesmith",
+          "AP | Isaiah Jackson",
+          "P | Goga Bitadze"
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Detroit Pistons",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_the_Detroit_Pistons.png",
+        "coach": "Monty Williams",
+        "starters": [
+          "BA | Cade Cunningham",
+          "ES | Jaden Ivey",
+          "AL | Bojan Bogdanović",
+          "AP | Isaiah Stewart",
+          "P | Jalen Duren"
+        ],
+        "bench": [
+          "BA | Killian Hayes",
+          "ES | Alec Burks",
+          "AL | Saddiq Bey",
+          "AP | Marvin Bagley III",
+          "P | James Wiseman"
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Houston Rockets",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Rockets.svg",
+        "coach": "Ime Udoka",
+        "starters": [
+          "BA | Kevin Porter Jr.",
+          "ES | Jalen Green",
+          "AL | Dillon Brooks",
+          "AP | Jabari Smith Jr.",
+          "P | Alperen Şengün"
+        ],
+        "bench": [
+          "BA | Amen Thompson",
+          "ES | Josh Christopher",
+          "AL | Tari Eason",
+          "AP | Kenyon Martin Jr.",
+          "P | Jock Landale"
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Oklahoma City Thunder",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/5d/Oklahoma_City_Thunder.svg",
+        "coach": "Mark Daigneault",
+        "starters": [
+          "BA | Shai Gilgeous-Alexander",
+          "ES | Josh Giddey",
+          "AL | Luguentz Dort",
+          "AP | Jalen Williams",
+          "P | Chet Holmgren"
+        ],
+        "bench": [
+          "BA | Tre Mann",
+          "ES | Isaiah Joe",
+          "AL | Kenrich Williams",
+          "AP | Aleksej Pokuševski",
+          "P | Jaylin Williams"
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Memphis Grizzlies",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg",
+        "coach": "Taylor Jenkins",
+        "starters": [
+          "BA | Ja Morant",
+          "ES | Desmond Bane",
+          "AL | Dillon Brooks",
+          "AP | Jaren Jackson Jr.",
+          "P | Steven Adams"
+        ],
+        "bench": [
+          "BA | Tyus Jones",
+          "ES | John Konchar",
+          "AL | Ziaire Williams",
+          "AP | Brandon Clarke",
+          "P | Xavier Tillman"
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Washington Wizards",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Washington_Wizards_logo.svg",
+        "coach": "Wes Unseld Jr.",
+        "starters": [
+          "BA | Monte Morris",
+          "ES | Jordan Poole",
+          "AL | Deni Avdija",
+          "AP | Kyle Kuzma",
+          "P | Daniel Gafford"
+        ],
+        "bench": [
+          "BA | Delon Wright",
+          "ES | Corey Kispert",
+          "AL | Rui Hachimura",
+          "AP | Anthony Gill",
+          "P | Taj Gibson"
+        ]
+      },
+      {
+        "id": 30,
+        "name": "Los Angeles Clippers",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lac.png",
+        "coach": "Tyronn Lue",
+        "starters": [
+          "BA | Russell Westbrook",
+          "ES | Paul George",
+          "AL | Kawhi Leonard",
+          "AP | Marcus Morris Sr.",
+          "P | Ivica Zubac"
+        ],
+        "bench": [
+          "BA | Bones Hyland",
+          "ES | Norman Powell",
+          "AL | Terance Mann",
+          "AP | Robert Covington",
+          "P | Mason Plumlee"
+        ]
+      }
     ]
-}
+  }

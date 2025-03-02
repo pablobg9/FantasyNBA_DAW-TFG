@@ -1,5 +1,5 @@
 {
-  "name": "cartelera",
+  "name": "Equipos",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,13 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
     "@types/react": "^18.3.10",
     "@types/react-dom": "^18.3.0",
+    "@types/react-router-dom": "^5.3.3",
     "@vitejs/plugin-react": "^4.3.2",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.11.1",
