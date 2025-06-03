@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Header from './Header';
+import { useLeague } from '../context/LeagueContext';
 
 interface Team {
   id: number;
@@ -24,6 +25,7 @@ export default function Equipos({ imput }: EquiposProps) {
   const [teams, setTeams] = useState<Team[]>([]);
   const [searchInput, setSearchInput] = useState<string>(imput);
   const navigate = useNavigate();
+  const { currentLeague } = useLeague();
 
   useEffect(() => {
     if (!searchInput) {
@@ -51,13 +53,21 @@ export default function Equipos({ imput }: EquiposProps) {
     return () => clearTimeout(debounceTimeout);
   }, [searchInput]);
 
+  const handleBackClick = () => {
+    if (currentLeague) {
+      navigate('/home');
+    } else {
+      navigate('/');
+    }
+  };
+
   return (
     <div className="min-h-screen bg-[#f8f8f8] px-4 py-6 sm:py-8">
       <Header imput={searchInput} setImput={setSearchInput} />
       
       <div className="max-w-7xl mx-auto mb-6 mt-8">
         <button 
-          onClick={() => navigate('/')}
+          onClick={handleBackClick}
           className="mb-6 
                      inline-flex items-center 
                      bg-[#1d428a] p-3 rounded-lg
